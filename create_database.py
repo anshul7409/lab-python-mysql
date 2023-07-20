@@ -8,5 +8,6 @@ mycursor = mydb.cursor()
 mycursor.execute("CREATE DATABASE if not exists test2")
 mydb.close()
 
+#my code
 # code 0 -successful
 # code 1 -unsuccessful
